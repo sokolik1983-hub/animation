@@ -97,5 +97,5 @@ document.addEventListener('keydown', function(event){
 let canvasWidth = canvas.clientWidth;
 let canvasHeight = canvas.clientHeight;
 
-
+console.log('test');
 
